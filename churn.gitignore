@@ -1,12 +1,8 @@
+# Ignore virtual environment
+venv/
 # Ignore Python bytecode files
 __pycache__/
 *.pyc
-
-# Ignore virtual environment
-venv/
-
-# Ignore environment variables file
-.env
-
-# Ignore log files
+# Ignore any other unnecessary files
 *.log
+*.env
